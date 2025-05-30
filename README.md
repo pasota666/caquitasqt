@@ -1,2 +1,2 @@
 # caquitasqt
-Caquitas QT
+Prueba de control de versiones con Qt Creator.
